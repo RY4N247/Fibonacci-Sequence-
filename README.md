@@ -15,7 +15,8 @@ A simple Ruby program to calcluate the fibonacci numbers using both iterative an
 Ensure you have Ruby installed on your system. Clone the repository and run the program.
 - bash: ```ruby fibonacci.rb```
 - if successful, you will be presented with a command line interface as shown below:
-  ![Example Image](https://example.com/images/example.jpg)
+  ![Alt Text](CLI.png)
+
 
 
   
